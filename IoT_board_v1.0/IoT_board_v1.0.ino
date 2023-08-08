@@ -7,8 +7,8 @@
 #include <ESPAsyncWebServer.h>
 
 // Replace with your network credentials
-const char* ssid = "ORIONSPACE"; //Replace with your own SSID
-const char* password = "SANOSAT1@2022"; //Replace with your own password
+const char* ssid = "*************"; //Replace with your own SSID
+const char* password = "*************"; //Replace with your own password
 
 const int relay1Pin = 16;
 const int relay2Pin = 14;
